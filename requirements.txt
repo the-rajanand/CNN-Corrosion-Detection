@@ -1,0 +1,10 @@
+# Core Libraries for Deep Learning and Image Processing
+tensorflow>=2.12
+keras
+opencv-python>=4.5
+scikit-learn>=1.2
+matplotlib>=3.0
+seaborn>=0.11
+Pillow>=8.0
+beautifulsoup4
+selenium
