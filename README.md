@@ -55,8 +55,8 @@ The optimized CNN model significantly outperformed the basic architecture.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/the-rajanand/Corrosion-Detection.git](https://github.com/the-rajanand/Corrosion-Detection.git)
-    cd Corrosion-Detection
+    git clone [https://github.com/the-rajanand/CNN-Corrosion-Detection.git](https://github.com/the-rajanand/CNN-Corrosion-Detection.git)
+    cd CNN-Corrosion-Detection
     ```
 2.  **Install Dependencies:**
     ```bash
